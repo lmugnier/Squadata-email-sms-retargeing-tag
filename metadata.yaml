@@ -15,5 +15,5 @@
 homepage: "https://www.squadata.net"
 documentation: "https://www.squadata.net"
 versions:
-  - sha: 1b4cb343402890cc242be40f63ba5bde74227d8d
+  - sha: 943a6af14956aebe24f06fdca3edaec1fcd64447
     changeNotes: Initial Version

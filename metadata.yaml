@@ -15,5 +15,10 @@
 homepage: "https://www.squadata.net"
 documentation: "https://www.squadata.net"
 versions:
+  # Latest version
+  - sha: 4f1cf290815a21725f0c9943d270013e3ee5cac5
+    changeNotes:  Client and listproduct data
+
+  # Old Version
   - sha: 943a6af14956aebe24f06fdca3edaec1fcd64447
     changeNotes: Initial Version
